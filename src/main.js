@@ -1,5 +1,5 @@
 // TODO: add JS
 
-function main(){
+// function main(){
 
-}
+// }
