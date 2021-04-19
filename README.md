@@ -7,7 +7,7 @@ VanillaTemplate for (non-framework projects)
 
 Template for Vanilla projects.
 
-Dependences:
+Installed:
 * Eslint (Code)
 * Stylelint (Styles)
 * Husky (Git hooks)
